@@ -269,7 +269,6 @@ if(i===gamer-1)
 
         desk.push(array[i][j]);
         array[i].splice(j,1);
-         hm=0;
          cont=0;
          changeplayer();
          $('#but'+i).hide();
