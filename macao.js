@@ -309,8 +309,6 @@ if(i===gamer-1)
   }
 
 
-
-
 else {
       if(cont!=0)alert("The card you have chosen is not valid.Try again!");
       afisaretabs();
